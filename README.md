@@ -62,7 +62,3 @@ The goal is to provide insights into revenue growth, product performance, and re
 - Practical application of Excel for **business performance analytics**  
 - Hands-on experience with **interactive dashboards, KPIs, and slicers**  
 - Improved ability to convert raw ecommerce data into **visual insights for decision-making**  
-
----
-
-If you'd like, I can help you turn this into a portfolio-ready write-up or even a LinkedIn post. Want to take it further?
